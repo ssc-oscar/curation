@@ -1,7 +1,0 @@
-Remove ending in .txt
-sed -i '/.txt\s*$/d' archive.csv
-
-Remove things relating to parsing libraries
-sed -i '/english/d' ./archive.csv
-
-
