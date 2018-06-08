@@ -1,0 +1,816 @@
+Modeling Reactor Coolant Systems Thermal-Hydraulic Transients
+Interactive Beam-Dynamics Program
+A Computer Program To Calculate The Leaching of Radionuclides and the Corrosion of Cemented Waste Forms in Water or Brine
+Code System for Isotope Identification by Gamma-Ray Analysis
+Code System for Transient and Steady-State Temperature Distribution in Multidimensional Systems.
+Code System to Calculate Fluid Circulation Patterns Near Jets.
+Parallel Power Grid Simulation Toolkit
+Roof Savings Calculator Suite
+DiTour 3.1
+MISO - Mixed Integer Surrogate Optimization
+FUDGE
+Implementation of Dynamic Extensible Adaptive Locally Exchangeable Measures (IDEALEM) v 0.1
+DIATOM (Data Initialization and Modification) Library Version 7.0
+X-Ray Toolkit (XTK) Touch App v. 1.0.x.x
+Solar Glaze Hazard Analysis Tool v. 3.0
+HyRAM (Hydrogen Risk Assessment Models) v. 1.0
+HyRAM (Hydrogen Risk Assessment Models) v. 1.0 (alpha)
+"Selection, Evaluation, And Rating of Compact Heat exchangers"
+Super Strypi SWIL 6DOF (Software-In-Loop six-degree-of-freedom) Rev. 2175
+COMMON – Communications System Monitor v. 1.0
+Computer program for generating kinematic earthquake rupture models using Irikura and Miyake's method.
+"Distributed Energy Resources Customer Adoption Model Plus (DER-CAM+), Version 1.0.0"
+SealSim Version 1.1
+Mili I/O Library
+"OpenPET Hardware, Firmware, Software, and Board Design Files"
+DebuggingDemo v. 1.0
+Chaos-Dchroot Version 2
+Thermal Effusivity Tomography from Pulsed Thermal Imaging
+Hardware Counter Multiplexing
+Loop-Mediated Isothermal Amplification (LAMP) Signature Identification Software
+Mantis BT Cluster Support
+Parallel 3D Fast Fourier Transform Functions
+Uranium Dispersion & Dosimetry Model.
+GeoPhysical Analysis Code
+Current Mode Logic Fan Out
+Transmission Planning Analysis Tool
+General Purpose Kernel Integration Shielding Code System-Point and Extended Gamma-Ray Sources.
+A Code System for Computing Shielding Factors from ENDF/B Tapes.
+ENDF/B to NDL Data Format Converter.
+The Aldermaston Nuclear Data Library.
+Look-ahead Dynamic Simulation
+Socpipe
+One-Dimensional Multigroup Neutron Transport Discrete Ordinates Code System.
+Calculated Recoil Proton Energy Distributions from Monoenergetic and Continuous Spectrum Neutrons.
+"BOXER: Fine-flux Cross Section Condensation, 2D Few Group Diffusion and Transport Burnup Calculations"
+JGI Genomic Single-cell Assembly Workflow
+Streaming Analytics and Data Engineering
+Sensor Fish Communicator
+Sequence Polishing Library (SPL) v10.0
+BioReactor
+"Modular System for Neutronics Calculations of Fission Reactors, Fusion Blankets, and Other Systems."
+A Modified Version of XLACS-II for Processing ENDF Data into Multigroup Neutron Cross Sections in AMPX Master Library Format.
+Calculation of Buildup and Decay of Radioactive Fission Products.
+Source Distribution Input Data Generator for ANISN Code.
+A Combinatorial Geometry Code System with Model Testing Routines.
+Calculates Angular Quadrature Weights and Cosines.
+Combinatorial Geometry Printer Plotting.
+Aerosol Behavior Log-Normal Distribution Model.
+Code System to Model LWR Meltdown Accident Response.
+Radionuclide Behavior in Containments.
+Calculation of External Gamma-Ray and Beta-Ray Doses from Accidental Atmospheric Releases of Radionuclides.
+Radioisotope Buildup and Decay Code System.
+Calculation of Potential External Dose from Airborne Fission Products Following Postulated Reactor Accident.
+Calculation of Radiation Dose to Man from Radionuclides in the Environment.
+Code System for Calculating Internal and External Doses Resulting from an Atmospheric Release of Radioactive Material.
+Multigroup Monte Carlo Neutron and Gamma-Ray Shielding Code System for Plutonium.
+External and Internal Bremsstrahlung Calculation Code.
+A Two-Dimensional Model for the Analysis of Contaminant Transport in a Fractured Porous Medium.
+Calculates External and Inhalation Doses from Acute Radionuclide Releases on the Hanford Site.
+Interactive Rapid Dose Assessment Model.
+Radioisotope Generator Code.
+Calculation of Annual Average External (Beta and Gamma Radiation) Doses from Chronic Atmospheric Releases of Radionuclides.
+Calculation of Accumulated Radiation Doses to Man from Radionuclides Found in Food Products and from Radionuclides in the Environment.
+A Solid Angle Calculational System.
+Spectrum Unfolding Using Information Theory.
+Electron and X-Ray Energy Deposition and Hydrodynamics Code System.
+Auxiliary Routines for Implementing the Albedo Option in the MORSE Monte Carlo Code System.
+Code System for Calculating the Radial and Axial Neutron Diffusion Coefficients in One-Group and Multigroup Theory.
+Kernel Integration Code System--Multigroup Gamma-Ray Scattering.
+35-Group Neutron Cross Sections and Resonance Self-Shielding Factors Generated in ISOTXS and BRKOXS Format from ENDF/B-IV Using MINX.
+Monte Carlo Calculation of the Response of an External Detector to a Photon Source in the Lungs of a Heterogeneous Phantom.
+Integral Transport Theory Code System for Thermal Reactor Lattice Cell Calculation.
+"Sample Heat, Activity, Reactivity, and Dose Analysis for Safety Analysis of Irradiations in a Research Reactor."
+Evaluator of Potential Radiological Doses in the Near (%3c 10 km) Environment of Radioactive Release.
+Space Radiation Environment and Shielding Code System.
+X-ray Attenuation and Absorption Calculations.
+Code System to Solve for Release and Transport of Contaminants through Saturated/Unsaturated Media.
+Transient Response in LMFBR System.
+Codes for Handling ENDF/B-V and ENDF/B-VI Data.
+"Code System for PWR & BWR Multicompartment Containment Analysis, Versions MOD5"
+"Disposal Unit Source Term by One-Dimensional, Transient, Finite-Difference, Subsurface Release and Transport of Contaminants."
+Code System for Static and Dynamic Piping System Analysis.
+Momentum Integral Network Method for Thermal-Hydraulic Systems Analysis.
+CRUNCH_PARALLEL
+Probabilistic Computer Analysis for Rapid Evaluation of Structures.
+Wavelet Algorithm for Feature Identification and Image Analysis
+j5 v2.8.4
+Reactor System Transient Code.
+Code System for Calculating Early Offsite Consequences from Nuclear Reactor Accidents.
+Calculation of Energy Distribution of Nuclear Reaction Products.
+Photon Interaction and Absorption Cross Sections.
+Multigroup One-Dimensional Discrete Ordinates Spectral Averaging N Transport Code System.
+Three-Dimensional Code System for Integrating Multigroup Line-of-Sight Attenuation Kernels by Monte Carlo Techniques.
+"Methodology for Computing Concentrations, Activities, Gamma-Ray Spectra, and Residual Heat from Fission Products."
+Modular Code and Data System for Fast Reactor Neutronics Analyses
+Albedo Calculation of Multigroup Spectra of Neutrons Transmitted Through Multilayer Slab Shielding.
+Neutron Spectrum Library Generation.
+Code System for the Analysis of Material Test Reactor (MTR) Cores.
+Code System to Calculate Integral Parameters with Reaction Rates from WIMS Output.
+AMPX-II P3 123-Group Neutron Cross Section Master Interface Library.
+An Improved Multigroup Monte Carlo Criticality Code System for Cross Section Processing.
+Calculates Thermal Neutron Scattering Kernel.
+Code System for Calculating Ion Track Condensed Collision Model.
+Code System for Evaluating Routine Radioactive Effluents from Nuclear Power Plants with Windows Interface.
+Code System for Evaluating Routine Radioactive Effluents from Nuclear Power Plants with Windows Interface.
+Code System to Calculate Multistep Compound Nucleus Neutron Cross-Sections and Spectra for Structural Materials.
+Code System for Converting Energy Distribution Cross Section Data to Tabulated Data.
+SPECabq v. 2.0
+Code System for Retrieving EXFOR Cross Section Data According to a Given Target Nucleus.
+A Program to Calculate Fast Neutron Data for Medium-Heavy Nuclei.
+A Program to Calculate Fast Neutron Data for Structural Materials.
+"Multigroup One-Dimensional Transport Code System, Collision Probability Method."
+A Two-Dimensional Monte Carlo Code System for Linear Neutron Transport Calculations.
+Neutron Cross-Section Covariance Data in Multigroup Form.
+A Program for Producing Graphical Output.
+"Multigroup Two-Dimensional (x-y, r-o geometry) Neutron Removal-Diffusion (Spinney Method) Shielding Code System."
+A Code System to Combine Cross Section Data in EXFOR and/or ENDF/B-IV Format.
+Code System to Simulate 3D Tracer Dispersion in Atmosphere.
+Format Translation from NJOY GENDF Format to ENDF/B-V and Other Formats.
+Solves Multigroup Diffusion Equations in One-Dimensional Systems.
+European Neutron Activation System.
+A Flexible Point-Kernel Shielding Code System.
+NJOY SCALE LINK.
+A General-Purpose Monte Carlo Gamma-Ray Transport Code System for Minicomputers.
+TALYS-Based Cross Section Library for Use with MCNPX.
+Exciton Model Code System for Calculating Preequilibrium and Direct Double Differential Cross Sections.
+A Line Source Shielding Code for Personal Computers.
+Best Estimate Code System to Calculate Thermal & Hydraulic Phenomena in a Nuclear Reactor or Related System.
+Best Estimate Code System to Calculate Thermal & Hydraulic Phenomena in a Nuclear Reactor or Related System.
+General Purpose Monte Carlo Multigroup Neutron and Gamma-Ray Transport Code System with Array Geometry Capability. We recommend C00474/ALLCP/02 MORSE-CGA.
+Collection of Neutronic VVER Reactor Benchmarks.
+Super VGA Primitives Graphics System.
+A Code For Combinatorial Calculation of Level Densities.
+Fine-Group Cross Section Library Based on JEFF3.1 for Nuclear Fission Applications.
+Code System for Neutron Cross Section Evaluation (Optical Method).
+VITAMIN-J 175-Neutron and 38-Photon Kerma And Gas Production Cross Sections.
+"Code System for 2-Group, 3D Neutronic Kinetics Calculations Coupled to Core Thermal Hydraulics."
+Processing of Double-Differential Cross Sections in the New ENDF-VI Format.
+Proton Reaction Data Library for Nuclear Activation (Medium Energy Nuclear Data Library.)
+Calculation of Pre-equilibrium Angular Distributions with the Exciton Model.
+Code System to Calculate Group-Averaged Cross Sections Using the Collision Probability Method.
+Code System for Fracture Mechanics Analysis of Circumferential Surface Cracks in Pipes.
+"One Dimensional, Time Dependent Multigroup Explicit Discrete Ordinates Radiation Transport Code System with Anisotropic Scattering."
+Adjoint Monte Carlo Calculation of Radiation Doses to Human Organs in Dwelling Rooms.
+A Spectrum-Dependent Non-Spatial Fuel Depletion Code System.
+Sample Analysis Code System for the Dual Channel Counter.
+Charged Particle Beam Transport Systems Design Code System (First- and Second-Order Matrix Multiplication).
+Point Kernel Calculation for Complex and Time-Dependent Gamma-Ray Source Spectra.
+Reactor Code System for Neutron Physics Calculation.
+Calculation of Neutron Currents in Spherical and Cylindrical Cavities by Means of View Factors.
+"A One-Dimensional, Time-Dependent Program for Calculating Coolant and Plateout Fission Product Concentrations in a Network of Pipes."
+Fission Product Radioactivities Calculation.
+Calculation of Gamma Radiation through Partially Shielded Gaps (Buildup Factor Method in Taylors Approximation).
+Monte Carlo Prediction of Photon Transport Distributions.
+"Calculation of Isotropic Scattering by Particles for One-Dimensional and Three-Dimensional Transport in Slabs by Invariant Imbedding, Orders-of-Scattering Method, Including Check Calculations by Integral Transport Theory and Monte Carlo."
+General Purpose Unfolding Program with Linear and Nonlinear Regularizations.
+Radiological Safety Analysis Code System.
+Gamma-Ray Spectrum Analysis Method for Minicomputers.
+Radioactive Dose Assessment and NRC Verification of Licensee Dose Calculation.
+Point-Kernel Shielding Code System.
+MCNP/ORIGEN Coupling Utility Programs.
+Code System For Risk Assessment From Underground Radioactive Waste Disposal In the United Kingdom.
+ENDF/B-VI Release 3 Cross Section Library for Use with the MCNP Monte Carlo Code.
+JEF 2.2 Cross Section Library for the MCNP Monte Carlo Code.
+"AMPX 175-n,42-g Multigroup X-section Library for Nuclear Fusion Applications."
+Self-Shielding Correlation of Foil Activation Neutron Spectra Analysis by SAND-II.
+Code System for Calculating the Nonlinear Transient Behavior of a Natural Circulation U-Tube Steam Generator with Its Main Steam System.
+Code System to Perform Monte Carlo Simulation of Electron Gamma-Ray Showers in Arbitrary Marerials.
+"Fuel Rod Thermal-Mechanical Behavior, Versions FRAPCON2, FRAPCON2/VIM4 & FRAPCON2/VIM5."
+Thermal Hydraulic Computer Code System.
+Parametric Hazard Function Estimation.
+Code System to Calculate Stress-Strains from Transient Pressures.
+Models And Results Database System.
+A General Purpose Monte Carlo Code System for Neutron Transport with Mixed Zone Geometry Option.
+System Analysis and Risk Assessment System.
+Code System for Three-Dimensional Hydraulic Reactor Core Analysis.
+Code System for Best-Estimate Analysis of LOCA in BWR.
+Code System to Calculate Integrated Reliability and Risk Analysis.
+"Point Kernel Code System for Neutron and Gamma-Ray Shielding Calculations in Complex Geometry, Including a Graphical User Interface."
+Interactive Graphic User Interface to View Neutron and Gamma-Ray Interaction Cross Sections.
+A Code For Calculating Self-Shielded Multigroup Neutron Cross Sections and Self-Shielding Factors From Preprocessed ENDF/B Basic Data Files.
+A Computer Code for 2-D Transport Calculations in x-y Geometry Using the Interface Current Method.
+Code System to Replace Files 4 and 6 of ENDF-6 with Files 4 and 5 of ENDF/B-IV.
+Unfolding Code System for Neutron Spectra Evaluation from Activation Data.
+Code System for Reactor Physics and Fuel Cycle Simulation.
+Neutron Activation Analysis PRognosis and Optimization Code System.
+A Multigroup One-Dimensional P-1 Radiation Transport Code System.
+A Multigroup Library of Neutron and Gamma Cross Sections and Response Functions in the Energy Range up to 800 MeV.
+Multi-Source Gamma-Ray Kernel Integration Code System.
+Code System To Analyze Radiological Impact From Radwaste Transportation.
+Three-Dimensional Few-Group Coarse Mesh Diffusion Code for Neutron Physics Calculation of Reactor Core in Hexagonal Geometry.
+Collapses Multigroup Cross Sections and Obtains Reaction Parameters by Solving Transport or Diffusion Equations.
+Code System for Solving Nonlinear Systems of Equations via the Gauss-Newton Method.
+Green's Function Nodal Algorithm for the Diffusion Equation.
+A Program For Optics of Curved Crystal Neutron Spectrometers.
+Nuclear Engineering Computer Models for In-Core Fuel Management Analysis.
+"Systematics of (n,2n) and (n,3n) Cross Sections."
+A One-Dimensional Multilayer Multigroup Neutron Removal-Diffusion and Gamma-Ray Point Kernel Calculator.
+A Code System for Assessing the Impact from Transporting Radioactive Material.
+The International Reactor Dosimetry File.
+The International Reactor Dosimetry File.
+International Reactor Dosimetry Data.
+Lawrence Livermore National Laboratory Evaluated Nuclear Data Library in ENDF-V Format.
+Nuclear Properties and Decay Data Chart of Nuclides.
+Plot Continuous Curves or Discrete Points.
+Proton Nucleus Elastic Scattering Data.
+X-ray and Gamma-ray Standards For Detector Calibration.
+Zero-in On The Truth; Evaluation of Correlated Data Using Partitioned Least Squares.
+"Gamma-Ray Penetration Shielding Code System, Transmission Matrix Method."
+A Computer Code To Analyze The Gas-Phase Transport of Fission Products In Reactor Cooling System Under Severe Accidents.
+Processing Code System for Production of Group Constants of Heavy Resonant Nuclei.
+Arrowland v1.0
+"Code System for the Calculation of Transmutation, Activation, Decay Heat and Dose Rate in Fusion Reactors."
+JENDL Dosimetry File 99.
+Japanese Evaluated Nuclear Data Library.
+70 Group Neutron Fast Reactor Cross Section Set and 25 Group Neutron Fast Reactor Cross Section Set.
+70 Group Neutron Fast Reactor Cross Section Set Based on JENDL-2B.
+Ray Analysis Cylindrical Duct Kernel Code for Neutrons and Gamma Rays.
+A Finite Element Mesh Generation Code System with On-Line Graphic Display.
+Monte Carlo Code System for Calculation of Multiple Scattering of Neutrons in the Resonance Region.
+Multigroup Constants fFle Based on ENDF/B IV.
+View Factor Calculation for Three-Dimensional Geometries.
+Terrestrial Food-Chain Model for Normal Operations.
+"A Code System for Generating Transport Group Constants, Energy Deposition Coefficients and Atomic Displacement Constants with ENDF/B."
+One-Dimensional Laser Fusion Analyzer (Including Neutron Heating Effect) Collision Probability Method.
+Code System to Calculate Neutron and Gamma-Ray Skyshine Doses Using the Integral Line-Beam Method.
+137 and 26 Neutron Multigroup Cross Section Library with the Bondarenko Type Shielding Table.
+Direct Angular Representation Monte Carlo Code for Criticality Safety Analysis
+A Computer Program for the Reactivity and Kinetic Parameters for Two-Dimensional Triangular Geometry by Transport Perturbation Theory.
+Evaluated Neutron Nuclear Data for Reactor Physics Calculations.
+High-Speed Three-Dimensional Nodal Diffusion Code System.
+A Monte Carlo Code System for Criticality Safety Analysis.
+Fission Product Inventory Code System with Fission Product Escape Model.
+General Purpose Monte Carlo Codes for Neutron and Photon Transport Calculations based on Continuous Energy and Multigroup Methods.
+A Computer Code System for the Calculation of Reactivity and Kinetic Parameters by One-Dimensional Neutron Transport Perturbation Theory.
+A Computer Program for the Calculation of Reactivity and Kinetic Parameters by Two-Dimensional Neutron Transport Perturbation Theory.
+Two-Dimensional Removal Diffusion Code Reactor Shielding Design Code System.
+Quasi-Random Sequence Generators.
+HEATKAU Program.
+Code System for Analyzing Ge and Alpha-Particle Detector Spectra.
+Experimental Data of Neutron Yields from Thick Targets Bombarded by 100 to 800 MeV / Nucleon Heavy Ions.
+FTA Basic Event & Cut Set Ranking.
+Theory and Use of Gamma-Ray Spectrum Analysis Codes for NaI(Tl) Detectors.
+Livermore Evaluated Neutron and Secondary Gamma-Ray Production Cross-Section Library in ENDF/B-IV Format.
+Legendre Functions of the First Kind and Legendre Polynomials.
+Magnetic Resonance Image Phantom Code System to Calibrate in vivo Measurement Systems.
+Codes for Unfolding Activation Detector Data and Pulse Height Spectra.
+A Code System for Unfolding a Pulse Height Distribution of Neutrons Measured by an NE-213 Organic Scintillator.
+Neutron Unfolding Code System for Calculating Neutron Flux Spectra from Activation Data of Dosimeter Foils.
+Code System for Analysis of Piping Reliability Including Seismic Events.
+Code System for Fluid-Structure Interaction Analysis.
+"A Temperature-Dependent, Linearly Interpolable, Tabulated Cross Section Library Based on ENDF/B-VI, Release 7."
+"Temperature-Dependent, Linearly Interpolable, Tabulated Cross Section Library Based on ENDF/B-VI, Release 8."
+Multigroup Neutron/Gamma-Ray Direct Integration Transport Code System for Two-Dimensional Cylindrical Geometry.
+A Code System To Generate Multigroup Constants and Analyze Radiation Transport for Shielding Safety Evaluation.
+A Code System for Reconstruction of Resonance Cross Sections from Evaluated Nuclear Data in ENDF/B Format.
+A Code to Produce Cell Averaged Cross Sections for Fast Critical Assemblies and Fast Power Reactors.
+Code System for Shielding Calculations by the Method of Invariant Imbedding.
+Code System for Real-Time Prediction of Radiation Dose to the Public Due to an Accidental Release from a Nuclear Power Plant.
+A Computer Code to Estimate Environmental Concentration and Dose Due to Airborne Release of Radioactive Material.
+A Computer Program to Evaluate External Exposures to a Gaussian Plume by Point Kernel Integration.
+A Plutonium Radiation Source Code System.
+Plant Risk Status Information Management System.
+Monte-Carlo Continuous Energy Burnup Code System.
+A Program for Decomposing A One-Dimensional Spectrum.
+48 Group Cross-Section Library for Fusion Nucleonics Analysis.
+Stratified Random Design.
+Code System for Spent Fuel Heating Analysis.
+"Coupled Neutron-Photon, 3-D, Combinatorial Geometry, Time Dependent, Monte Carlo Transport Code System."
+"Pre-equilibrium, Statistical Nuclear-Model Code System for Calculation Cross Sections and Emission Spectra, Version gn9cp8."
+Code System to Calculate Transient 2-Dimensional 2-Fluid Flow Dynamics.
+PV Hourly Simulation Tool
+A Computer Code for TRIGA Type Reactors.
+Code System to Calculate Mixed Cores in TRIGA Mark II Research Reactor.
+Steady-State Axial Temperature and Flow Velocity in Triga Channel.
+Evaluated X-ray Cross Section Library.
+Monte Carlo Codes for Calculating Efficiencies and Response Functions of NaI(Tl) Crystals for Thick Disk Gamma-Ray Sources.
+Calculation of Secondary Gamma-Ray Dose Rate from a Nuclear Weapon Detonation-Monte Carlo Method.
+Intermediate Energy Activation File - 2001.
+Three-Dimensional Time Dependent Monte Carlo Code System for Fast Neutron Physics Problems.
+A Modification of the Isotope Generation and Depletion Code System ORIGEN. CCC-702/ORIGEN-ARP is recommended for new ORIGEN users.
+A Code for the Generation of Group Constants for Reactor Calculations from Neutron Nuclear Data in KEDAK Format.
+Two-Dimensional Discrete Ordinates Multigroup Transport Code System in Plane and Cylindrical Geometry with Isotropic and Anisotropic Scattering.
+Neutron and Gamma-Ray Kerma Factors Based on LLNL Nuclear Data Files.
+Code System to Determine Pu Isotope Abundances from Multichannel Analyzer Gamma Spectra.
+Monte Carlo Multigroup Neutron Code System for the Solution of Criticality Problems. We recommend C00474/ALLCP/02 MORSE-CGA.
+Multigroup Neutron and Gamma-Ray Transport Code System for the Solution of Penetration Problems. We recommend C00474/ALLCP/02 MORSE-CGA.
+Code System for Two-Dinensional Sn-Neutronics and Fluid Dynamics.
+"A Temperature-Dependent, Linearly Interpolable, Tabulated Cross Section Library Based on released ENDF/B-VII.0."
+"A Temperature-Dependent, Linearly Interpolable, Tabulated Cross Section Library Based on ENDF/B-VII.0."
+ENDF/B-VII.1 Beta4 Temperature Dependent Cross Section Library.
+ENDF/B-VII.1 Beta4 Temperature Dependent Cross Section Library.
+ENDF/B-VII.1 Final Temperature Dependent Cross Section Library.
+"A Temperature-Dependent, Linearly Interpolable, Tabulated Cross Section Library Based on ENDF/B-VI, Release 4."
+Shipping Cask Design Review Analysis.
+Code System for Seismic Probabilistic Risk Assessment.
+Thermonuclear Data File.
+A General-Purpose Mesh Generator for Finite Element Codes.
+Code System to Calculate Three-Dimensional Extension Two-Phase Flow Dynamics.
+Evaluated Nuclear Data Library for Transport Calculations Involving Incident Neutrons and Protons of Energy Up to 100 MeV.
+A Multigroup Reaction Cross-Section Collapsing Code and Library of 154-Group Fission-Product Cross Sections.
+PO Multigroup Photon Production Matrix and Source Vector Code for ENDF Data.
+Fission Product Release Calculator-From a Reactor Containment Building for Arbitrary Radioactive Decay Chains.
+"30-Group Neutron, 12-Group Photon Cross Sections from ENDF/B-VI in MATXS Format."
+"80-Group Neutron, 24-Group Photon Cross Sections from ENDF/B-VI in MATXS Format."
+"Monte Carlo NParticle Transport Code System Including MCNP6.1, MCNP5-1.60, MCNPX-2.7.0 and Data Libraries."
+"Monte Carlo NParticle Transport Code System Including MCNP6.1, MCNP5-1.60, MCNPX-2.7.0 and Data Libraries."
+Isotope Generation and Depletion Code with Libraries Based on JENDL3.2. New ORIGEN users are advised to get CCC-750/SCALE6 and run the ORIGEN-ARP code system in that package.
+Pre-Processing Code System for Data in ENDF/B Format.
+Pre-Processing Code System for Data in ENDF/B Format.
+"Multi-Dimensional, Discrete-Ordinates Based Cross Section Sensitivity and Uncertainty Analysis Code System."
+"Standard Neutron, Photon, and Electron Data Libraries for MCNP4C."
+Aggregate Fission-Product Decay Data Based on ENDF/B-IV and -V.
+"Standard Neutron, Photon, and Electron Data Libraries for MCNP4B."
+Adjoint Function: Physical Basis of Variational & Perturbation Theory in Transport
+Nuclear Reactor Kinetics and Control.
+Thermodynamics: Frontiers and Foundations.
+A Modular System for Calculating the Neutronics and Photonics Characteristics of a Fusion Reactor Blanket.
+Code System for Generation of Input Data for MCNP.
+Models of Trapped Proton and Electron Environments for Solar Maximum and Minimum.
+Evaluator of Space Radiation Environment Encountered by Geocentric Satellites.
+An Orbital Integration Estimation of Trapped Radiation.
+Solid Angle Integration Charged Particle Penetration Code.
+Shield Thickness Calculation Program for Space Vehicles.
+Estimation of Nuclear Reaction Effects in Proton-Tissue-Dose Calculations.
+Solar Flare Radiation Hazard to Earth Orbiting Vehicles.
+Proton Penetration Code - Multilayer Slab Geometry.
+Monte Carlo Code to Simulate Solar Flare Events and Estimate Probable Doses Encountered on Interplanetary Missions.
+Neutron Activation Analysis and Product Isotope Inventory Code System.
+"An Automated, Multi-Step Monte Carlo Burnup Code System."
+Radiation Shield Optimization Code.
+Improved Neutron Activation Prediction Code Systems.
+A Preprocessing Code for ANISN and Other Radiation Transport Codes.
+"60 Group, P5, Cross Sections in DTF-IV for Transport Calculations for Neutrons with Energies Up to 60 MeV."
+Multigroup Interpretation of Nuclear X-Sections from ENDF/B Standard CCCC-III Interface Formats.
+Code System for Producing Pointwise and Multigroup Neutron and Photon Cross Sections from ENDF/B Data.
+Code System for Producing Pointwise and Multigroup Neutron and Photon Cross Sections from ENDF/B Data.
+Code System for Producing Pointwise and Multigroup Neutron and Photon Cross Sections from ENDF/B Data.
+Code System for Producing Pointwise and Multigroup Neutron and Photon Cross Sections from ENDF/B Data.
+Code System for Analysis of 3-D Reinforced Concrete Structures.
+Code System to Detect Recurring Loss of Special Nuclear Materials.
+A One-Dimensional Multigroup Discrete Ordinates Finite Element Transport Code System. We recommend CCC-547/TWODANT-SYS.
+"Time-Dependent, Parallel Neutral Particle Transport Code System."
+Gamma-Ray Absorption Coefficient Calculation.
+Photon Interaction Cross Section Library.
+"Photon Cross Sections on a Personal Computer, Versions 1.2 and 1.3."
+Japanese Evaluated Neutron Cross Section Data in ENDF/B-IV Format.
+Gamma-Ray Spectra Analyzer Germanium Detector.
+Neutron Cross Section Library Based on JEFF3.1 for Use with MCNP.
+Steady-State Analysis Model for Advanced Fuel Cycle Schemes.
+Neutron Cross-Section Covariance Data in Multigroup Form.
+Three-Dimensional Point Kernel Gamma-Ray Shielding Code.
+"Code System to Solve the Few-Group Neutron Diffusion Equation Utilizing the Nodal Expansion Method (NEM) for Eigenvalue, Adjoint, and Fixed-Source"
+Photon buildup factors to account for angular incidence on shield walls.
+TALYS-Based Cross Section Library for Use with MCNP(X).
+Code System for Use with Human System Interface Design Review Guidelines.
+Code System for Calculating Radiation Exposure to Man from Routine Release of Nuclear Reactor Liquid Effluents.
+Code System for Calculating Radiation Exposure Resulting from Accidental Radioactive Releases to the Hydrosphere.
+Computer Code Systems for Use with Meteorological Data.
+Code System for Data Plotting and Curve Fitting.
+"PHITS-2.76, Particle and Heavy Ion Transport code System"
+Gamma Detector Response and Analysis Software%u2013Detector Response Function
+"ECIS-12, Coupled Channel, Statistical Model, Schroedinger and Dirac Equation, Dispersion Relation"
+"Code System to Calculate Excitation Functions for (n,charged particle) Reactions."
+High Energy Particle Transport Code System.
+Multigroup 3-Dimensional Neutron Diffusion Nodal Code System with Thermohydraulic Feedbacks.
+Code System for the Analysis of Component Failure Data with a Compound Statistical Model.
+Fault Tree Cut Set System Performance.
+"SoftWare for Optimization of Radiation Detectors, SWORD Version 5.0."
+Computer Code System to Assess Skin Dose from Skin Contamination
+Code System to Calculate Pressure Vessel Failure Probabilities.
+Fission Product Migration in Primary System and Containment
+Multiparticle Monte Carlo Code System for Shielding and Criticality Use.
+Health Physics Code System for Evaluating Accidents Involving Radioactive Materials.
+"Monte Carlo NParticle Transport Code System Including MCNP6.1.1BETA, MCNP6.1, MCNP5-1.60, MCNPX-2.7.0 and Data Libraries."
+Code System for the Radioactive Liquid Tank Failure Study.
+Code System to Calculate Reactor Coolant System Leak Rate.
+Radiation Exposure Monitoring and Information Transmittal System.
+Computerized Mathematical Models of Spray Washout of Airborne Contaminants (Radioactivity) in Containment Vessels.
+Ultimate Heat Sink Cooling Pond and Spray Pond Analysis Models.
+"2-D Time-Dependent Fuel Element, Thermal Analysis Code System."
+Radiological Assessment Code System - Meteorological Evaluation of Routine Effluent Releases at Nuclear Power Stations.
+Monte Carlo Criticality Code System for Hexagonal Geometries.
+A Utility Program for WIMS Libraries.
+Calculates Flux and Dose Rate from the Scattering of Radiation in Air.
+Neutron Transport Code System Based On Anisotropic Scattering.
+A Three-Dimensional Transport Code For Eigenvalue Problems Using The Diffusion Synthetic Acceleration Method.
+Code System For Calculating Reactivity Transients In a LWR.
+A Multigroup Ionization and Charge Exchange Cross-Section Code System for Neutral Hydrogen Transport in Plasmas.
+Kernel Integration Code System.
+"30-Group Neutron, 12-Group Photon Cross Sections from ENDF/B-IV in MATXS Format."
+"30-Group Neutron, 12-Group Photon Cross Sections from ENDF/B-V in MATSX Format."
+"80-Group Neutron, 24-Group Photon Fast-Reactor Cross Section from ENDF/B-V in MATXS Format."
+69-Group Thermal-Reactor Neutron Cross Section Data from ENDF/B-V in MATXS Format.
+Code System to Predict LWR Reflood Heat Transfer.
+"One-Dimensional, Multigroup Cross Section and Design Sensitivity and Uncertainty Analysis Code System - Generalized Perturbation Theory."
+A One-Dimensional Single Group Discrete Ordinates Transport Code System.
+"Nonequilibrium, Drift-Flux Code System for Two-Phase Flow Network Analysis"
+"Code System for Calculating Alpha, N; Spontaneous Fission; and Delayed Neutron Sources and Spectra."
+Code System to Calculate Fuel Rod Thermal Performance.
+Code System to Calculate Probability of Reactor Vessel Failure.
+STAYSL PNNL Suite of Software Tools.
+Code System for Evaluation of Control Room Habitability.
+A Variable Trajectory Plume Segment Model to Assess Ground-Level Air Concentrations and Depositions of Routine Effluent Releases from Nuclear Power Facilities.
+Interactive Mesoscale Lagrangian Puff Dispersion Model with Deposition and Decay. See CCC-677/MESORAD.
+Code System for Emergency Response Dose Assessment.
+Calculation of Radiation Doses from Uranium Recovery Operations.
+Code System to Model Aqueous Geochemical Equilibria.
+Atmospheric Dispersion Code System for Evaluating Accidental Radioactivity Releases from Nuclear Power Stations.
+Richards Equation Solver; Rectangular Finite Volume Flux Updating Solution.
+Code System to Create Broad-Group Cross Sections with Resonance Interference and Self-Shielding from Fine-Group and Pointwise Cross Sections.
+"Three-Dimensional, Nodal, Neutron Diffusion Criticality Code System in Hex-Z Geometry."
+Radionuclide Chain Transport with Matrix Diffusion.
+Unfolding with Maxed and Gravel.
+Monte Carlo Simulation of the Turbulent Transport of Airborne Contaminants.
+"Evaluated Photon Interaction Library, ENDF/B File 23 Format."
+Calculation of Energy Loss Straggling of Heavy Charged Particles.
+Best-Estimate Analysis PWR LOCA.
+Two-Dimensional x-y and r-z Geometry Multigroup Transport Code System for Large Toroidal Reactors.
+"Two-Dimensional Multigroup Discrete Ordinates Transport Code System-(x,y) and (r,z) Geometries."
+"Multigroup Time-Dependent Discrete Ordinates Radiation Transport Code System in (rho,z) Cylindrical Geometry."
+Monte Carlo N-Particle Transport Code System To Simulate Time-Analysis Quantities.
+Two Dimensional Gamma-Ray Heating Kernel Integration Code.
+ANISN-Type Binary Data Processing Code System.
+Code System for Analysis and Optimization of Fusion Reactor Nucleonic Characteristics.
+LMR Transient Calculation Code System (version 5).
+Code System to Calculate Nuclear Reaction Cross Sections by Evaporation Model.
+Three-Dimensional Kernel Integration Code-Explicit Single Scattering Option.
+Thermal Reactor Code System for Reactor Design and Analysis.
+Building Fallout Radiation Protection Factor Analysis.
+X-Ray Shield Calculation System.
+"Two-Dimensional, Multigroup, Triangular Mesh, Planar Geometry, Explicit Discrete Ordinates Code System."
+Two-Dimensional Discrete Ordinates. We recommend CCC-547/TWODANT-SYS.
+"Two-Dimensional Multigroup Discrete Ordinates Transport C System in (x,y), (r,theta), and (r,z) Geometries."
+Multigroup Two-Dimensional Discrete Ordinates Transport Code System in Spherical Geometry.
+Effective Dose Equivalent for Specific Radionuclides.
+A Code to Check Physical Consistency of Photon-Production Data in Revised ENDF Format.
+A Computer Program For Speciation Calculation.
+Computerized Radiological Risk Investigation System for Assessing Doses and Health Risks from Atmospheric Releases of Radionuclides.
+Code System for Analysis of Potential Radiological Impacts.
+Code System for Radionuclide Migration Calculations.
+Integrated TIGER Series of Coupled Electron/Photon Monte Carlo Transport Codes System.
+Code System to Generate Latin Hypercube and Random Samples.
+Puff-Plume Atmospheric Deposition Model.
+Gamma-Ray Dose Estimation from Cloud of Radioactive Gases by Kernel Integration.
+Axial Burnup Profile Database for Pressurized Water Reactors.
+Integrated Modular Code System for Shielding and Reactor Physics Calculations.
+"On-Line Derivative Method, Spectrum Unfolding Code System for NE-213 Liquid Fast Scintillation Proton Recoil Data."
+Monte Carlo Ion Transport Analysis Code.
+General Purpose Monte Carlo Multigroup Neutron and Gamma-Ray Transport Code System. We recommend C00474/ALLCP/02 MORSE-CGA.
+"Calculation of Fission Product Inventory, Gamma-Ray Dose Rates and Gamma-Ray Doses by Kernel Integration."
+Code System Model for Assessing the Consequences of Release of Radioactive Material into the Oceans.
+A Code System To Generate a Text File Containing Combinatorial Geometry Data Corresponding to PADL2 Geometry.
+Code System for Performance Assessment Ground-water Analysis for Low-level Nuclear Waste.
+An Interactive Point Kernel Program For Photon Dose Rate Prediction of Cylindrical Source/Shield Arrangements.
+"A One-Dimensional, Neutron-Thermalization, Lattice-Cell Program Based on MUFT and THERMOS."
+"Calculation of the Effects of Structure Design on Neutron, Primary Gamma-Ray and Secondary Gamma-Ray Dose Rates in Air."
+Point Kernel Gamma-Ray Shielding Code With Geometric Progression Buildup Factors.
+Diagnostic X-Ray Shielding Calculation.
+Code System to Calculate Brief Adversary Threat Loss Estimate.
+"Displacement per Atom, Primary Knocked-on Atoms Produced in an Atomic Solid Target"
+LIBMAKER
+Systems Analysis Programs for Hands-On Integrated Reliability Evaluations.
+Reactivity Transients in Nuclear Research Reactors
+POINT 2015: ENDF/B-VII.1 Final Temperature Dependent Cross Section Library
+Multigroup Time-Independent Neutron Transport Code System for Plane or Spherical Geometry.
+Sandia Computational Engine for Particle Transport for Radiation Effects.
+Internal Dosimetry Code System Using Biokinetics Models
+Code System to Calculate Correlation & Regression Coefficients.
+Two-Dimensional Multigroup Diffusion Code System-Trigonal or Hexagonal Mesh.
+Infinitely-Diluted Multigroup Cross-Section Generator - from ENDF/B.
+Two-dimensional Multigroup Collision Probability Code System for Hexagonal Geometry.
+Code System to Calculate Particle Penetration Through Aerosol Transport Lines.
+Transmission Probability Code System for Calculating Neutron Flux Distributions in Hexagonal Geometry.
+"Photons, Electrons and Positrons Transport in 3D by Monte Carlo Techniques"
+Code System for Monte Carlo Simulation of Electron and Photon Transport.
+Electron Photon Interaction Cross Sections
+Statistical Model Code System to Calculate Particle Spectra from HMS Precompound Nucleus Decay.
+A Point Kernel Integration Code For Radiation Shielding of Loop System.
+Code System to Process WIMSD4 Interface Output Files and Generate Two-Group Data for Reactor Calculations.
+Calculation of Resonance Reaction Rates in Reactor Lattices Using Resonance Profile Tabulations.
+Code System for Pre-equilibrium Process with Multiple Nucleon Emission.
+Measured Axial Burnup Profiles for NeckarWesthiem PWR Reactors.
+A Program for Calculating Radiation Dose Rates.
+Code System to Calculate Radiation Dose Rates Relative to Spent Fuel Shipping Casks.
+General Purpose Monte Carlo Multigroup Neutron and Gamma-Ray Transport Code System with Array Geometry Capability. We recommend C00474/ALLCP/02 MORSE-CGA.
+Generalized One-Dimensional Multigroup Time-Dependent Transport and Diffusion Kinetic Code System.
+Foil Activation Data Unfolding Code System.
+Monte Carlo Code System for High-Energy Radiation Transport Calculations.
+Monte Carlo N-Particle Transport Code System To Simulate Time-Analysis Quantities.
+Multigroup Three-Dimensional Direct Integration Method Radiation Transport Analysis Code System.
+Cross Section Sensitivity and Uncertainty Analysis Including Secondary Neutron Energy and Angular Distributions.
+Code System for Supercritical Water Cooled Reactor LOCA Analysis.
+A Computer Program To Evaluate The Dynamic Fission Product Inventories in the Multiple Compartment System of PWR's.
+Code System for NE-213 Unfolding of Neutron Spectra up to 100 MeV with Response Function Error Propagation.
+One-Dimensional Lagrangian Code for Plasma Hydrodynamic Analysis of a Fusion Pellet Driven by Ion Beams.
+RACC Code System for Computing Radioactivity-Related Parameters for Fusion Reactor Systems Modified for Pulsed/Intermittent Activation Analysis.
+Multigroup Complex Geometry Neutron Diffusion Code System.
+Two-Dimensional Multigroup Removal-Diffusion Shielding Code System.
+Calculator of Ground Level External Gamma-Ray Dose from a Radioactive Plume.
+MCNP Continuous-Energy Neutron Cross Section Libraries for Temperatures from 300 to 1365K.
+Multigroup Integral Transport Code System for Thermal Lattice Calculations using Collision Probability Method for Slabs and Cylinders.
+"Conversion of Input Data between KENO V.a and MCNP File Formats, Version 5L."
+ADVANTG 3.0.1: AutomateD VAriaNce reducTion Generator
+MCNPX Extension for Using Light Ion Evaluated Nuclear Data Library.
+Code System to Calculate Cross Sections for PWR Fuel Assembly Calculations.
+A Monte Carlo Three-Dimensional Code System for Calculating Combined Photon-Electron Transport in Complex Systems.
+Set Equation Transformation System.
+Code System to Solve Burnup Dependent Neutron Diffusion Equations in Two and Three Dimensions.
+Code System to Perform Neutronic and Thermal-Hydraulic Subchannel Analysis from Converged Coarse-Mesh Nodal Solutions.
+Recommended Dosimetry Cross Section Compendium.
+Determination of Neutron Spectra from Activation.
+Code System to Calculate Waste-Isolation Flow and Transport.
+Top Event Matrix Analysis Code System.
+A Machine-Portable CDC UPDATE Emulator.
+Code System to Calculate Heat and Mass Transfer In Concrete
+VESTA 2.1.5 - Monte Carlo Depletion Interface Code; AURORA 1.0.0 - Depletion Analysis Tool.
+JEF/EFF Based 70 Group Neutron Data Library in MATXS Format.
+Utilities For the NJOY (6/83) Nuclear Data Processing System.
+JEF-1 Based 69 Group Neutron Data Library.
+100 Group Neutron Kerma Factors and Reaction Cross Sections Generated by MACK from Data in ENDF Format.
+Three-Dimensional Monte Carlo Computer Code System for Calculating Radiation Damage from Ion Beams.
+A Compendium of Neutron-Induced Secondary Gamma-Ray Yield and Cross Section Data.
+Monte Carlo Code System for Electron (Positron) Dose Kernel Calculations.
+Single-Species Aerosol Coagulation and Deposition with Arbitrary Size Resolution.
+BWR Core Heat Transfer Code System.
+Monte Carlo Nucleon Meson Transport Code System.
+Code System to Calculate Waste-Isolation Flow and Transport.
+"66 Neutron, 22 Gamma-Ray Group Cross Sections for Radiation Transport for Neutron Energies Up to 400 MeV."
+ENDF/B-VII.1 Beta4 Temperature Dependent Cross Section Library.
+NAUA-MOD5
+Extended Version of the WIMS 69-group Library.
+Seismic/Hazard Characterization in the Eastern U.S.
+Code System for Toxic Gas Accident Analysis.
+Neutron Flux Spectra Determination by Multiple Foil Activation - Iterative Method.
+Hydrogen Event Containment Response Code System.
+Interfaces MATXS Cross-Section Libraries to Nuclear Transport Codes for Fusion Systems Analysis.
+Code System to Calculate Tornado-Induced Flow Material Transport.
+Code System to Calculate Transient 2-Dimensional 2-Phase Flow.
+ICEd-ALE Treatment of 3-D Fluid Flow.
+MESHMAKER (MM) V1.5
+MARS15
+"CDR: A Constant Dose Range Code System, Using the LANL-NWEF Neutron-Gamma-Ray Air Flux Tape"
+Nuclear Facilities Fire Accident Model
+COBRA-SFS CYCLE 3: Code System for Thermal Hydraulic Analysis of Spent Fuel Casks
+"A Visualization Code System for Gamma and Neutron Shielding Calculations, Version 2.0"
+General Point-Depletion and Fission Product Code System and Four-Group Fission Product Neutron Absorption Chain Data Library Generated from ENDF/B-IV for Thermal Reactors
+SACALC_CYL
+SACALC2B
+CEM95
+GTM-1
+An Extensible Reduced Order Model Builder for Simulation and Modeling
+AMS Data Analysis Program
+Computer Health Score
+Continous Representation Learning via User Feedback
+The Defender's Role in Cyber Security
+Equipment Cost Estimator
+Xenon International Automated Control
+Test Data Monitor
+Peak Doctor v 1.0.0 Labview Version
+Blood Irradiator Interactive Tool Beta Version
+Aquatic Acoustic Metrics Interface
+"Advanced Electrolyte Model, ver. 2.0 (AEM-2.0)
+Next Generation Electrolyte Model, ver. 2.0 (NGEM-2.0)
+
+Computer model for characterizing, screening, and optimizing electrolyte systems"
+Contingency Base Energy Management System
+"Computer model for electrochemical cell performance loss over time in terms of capacity, power, and conductance (CPC)"
+Methodology for Automated Detection of Degradation and Faults in Packaged Air Conditioners and Heat Pumps Using Only Two Sensors
+Multispeaker
+Power Plant Model Validation Tool
+Quicksilver
+RAW to UIMF Converter
+Subsurface Transport Over Multiple Phases Demonstration Software
+T.Rex
+T.Rex
+Robust Critical Point Detection
+Jacobi Set Computation
+DIVA V2.0
+Fission Reaction Event Yield Algorithm
+Tango
+IREP
+Graph Visualization for RDF Graphs with SPARQL-EndPoints
+PAUSE: Predictive Analytics Using SPARQL-Endpoints
+A High Performance Content Based Recommender System Using Hypernym Expansion
+Los Alamos ISIS Suite
+Cycle Analysis
+ELASTI
+EM 2dV1.0.F
+ESMART- Version 0.9
+IAIMFAST: Alignment Implementation for Manufacturing
+TOUGH3 v1.0
+iTOUGH2 v7.1
+Drupal Contributed Modules Date AP Style
+SPARClite v. 8/17/16
+A 3D approximate maximum likelihood localization solver
+Friendly Extensible Transfer Tool Beta Version
+Probabilistic Anthrax Risk Assessment Tool v. 1.0
+BOREFIELD v. 1.0
+FDEM v. 3.0
+EMHOLE v. 2.1
+EMODEL_1D v. 1.0
+EMRECORD v. 1.0
+miniTri Mantevo miniapp v. 1.0
+FDEM v. 2.0
+LETS v. 3.0
+THEMBED v. 1.0
+BHFEM3D v. 1.0
+Mobile X-Ray Toolkit v. 1.0.x
+A real-time path rating calculation tool powered by HPC
+C++ Polynomial Fit
+Marmot-Fission-Gas-Diffusion
+Universal Number Library
+Sensor Suitcase Tablet Software
+"Operations DER-CAM based Microgrid Controller, v1.0"
+EnergyIQ
+NWK lim
+nwk_num
+nwk_num_strip
+nwk_tree_split
+nwk_tree_merge
+tree_select_probes
+nwk_narb_pct
+reverse
+overlap_equ
+Symbolic Regression with DEAP
+Python Curve Editor and Fitter
+overlap_filter_grad
+overlap_collect
+arb_tree_32
+complement
+nwk2arb
+pqfilter
+requalify
+virt_hyb
+hybinfo
+nwk_arb_apply
+sname_subst V2
+95margin V2
+remove_common_gaps
+1miss
+hydropower biological evaluation tools
+Methodology for Risk-informed O&M decision making in power plants
+rNMF 1.0: Robust Nonnegative matrix factorization with kmeans clustering and signal shift
+Scraper
+Copy Hiding Application Interface
+Open Facility Viewer
+ZFP compression plugin (filter) for HDF5
+Framework for Research in Nuclear Science and Engineering v. 0.3.0
+Delft3D turbine turbulence module v. 1.0.0
+SWinzip v. 1.0
+UQ Toolkit v. 3.0
+Sandbox for Mac Malware v 1.0
+Phoenix v. 1.0-SNAPSHOT
+Chama v. 0.1 (beta version)
+Sandia Matlab AnalysiS Hierarchy toolbox v. 1.0
+Sandia Hyperspectral Upper-Bound Spectrum Version 1.0
+TuckerCompressMPI v. 1.0
+"Super Strypi Navigation, Guidance & Control (NGC) v. Release 04"
+GazeAppraise v. 0.1
+Public Health Analysis Transport Optimization Model v. 1.0
+Sandia MEMS Visualization Tools v. 3.0
+Digital Inject Book v. 1.7
+Super Strypi HWIL 6DOF (Hardware-In-Loop six-degree-of-freedom) Rev. 2175
+"Selection, Evaluation, and Rating of Compact Heat Exchangers v. 1.006"
+Chemical Management System (CMS) v. 1.0
+Spreadsheet Assessment Tool v. 2.4
+Pole Figure Explorer v. 1.8
+Waste Information Management System v. 1.0
+iGeoT v1.0
+Responsive Image Inline Filter
+A PMPI tool for Piggybacking Lamport clock
+GLD2OCT
+Static PMPI-wrapper stack and link tool
+MPI Record-and-Reply tool
+Solution of the Self-consistent Skyrme Hartree-Fock-Bogoliubov Equations in the Cartesian Deformed Harmonic Oscillator Bssis (VII_HFODD (v.2.73y): a new version of the jprogram
+Noise Inject Agent Tool
+SynTrack: DNA Assembly Workflow Management (SynTrack) v2.0.1
+Python LORA
+Revised Extended Grid Library
+"Fenix, A Fault Tolerant Programming Framework for MPI Applications"
+Dial-A-Cluster
+Dynamic Noise Measurement System Software
+Compare Gene Calls
+Particle In Cell Scalable Application Resource (PICSAR) v2
+A lightweight in situ visualization and analysis infrastructure for multi-physics HPC simulation codes
+HyperHeadTail v. 1.0
+RetSynth v. 1.0
+Anger Camera Calibration and QA Software
+Photovoltaic Reliability Performance Model v 2.0
+MiniTensor v. 1.0
+HIPPO Unit Commitment Version 1
+Backstroke
+GridKit
+LandScan 2015 High-Resolution Global Population Data Set
+Band Excitation for Scanning Probe Microscopy
+Cyber-Physical Security Assessment (CyPSA) Toolset
+CTH Ver. FEB01
+OpenMSI Arrayed Analysis Tools v2.0
+DYNAMIC – The Nonlinear Dynamical Network Simulator v. 0.1
+Juxtaposer v. 1.0
+Exomerge v. 8.0
+ecode - Electron Transport Algorithm Testing v. 1.0
+PuLP/XtraPuLP : Partitioning Tools for Extreme-Scale Graphs
+PREP: Portal for Readiness Exercises & Planning v. 1.0
+Connectivity: Performance Portable Algorithms for graph connectivity v. 0.1
+HPCGraph v. 0.1
+PlotData v. 4.47
+Umbra Utility v. 1.1
+Solar Glare Hazard Analysis Tool v. 4.0
+Sandia Advanced MEMS Design Tools v. 3.0
+Terrain - Umbra Package v. 1.0
+Modular Expression Language for Ordinary Differential Equation Editing
+Sensors Umbra Package v 1.0
+SPARC v. 8/17/2016
+packr-maven-plugin
+"Hierarchical, user-level and on-demand filesystem"
+Positron Annihilation; Finite Element; electronic structure
+Prove-It v. 0.3
+UGV (Unmanned Ground Vehicle) Umbra Package v 1.0
+LabVIEW Task Manager v. 1.10.0
+X-Ray Toolkit (XTK)  v. 2.5.x.x
+Effective Mass Theory in Python (EMTpY) v. 1.0
+Turbo FRMAC 2016 Version 7.1.0
+SNL-SAND-IV v. 0.9 (beta)
+Document Set Differentiability Analyzer v. 0.1
+Personal Alarm System
+Mechanical Serial-Sectioning Data Assistant
+Retina Image Screening and Analysis Software Version 2.0
+Awake Animal Imaging Motion Tracking Software
+Uncertainty quantification of measured quantities for a HCCI engine: mass-average quantities and perofrmances
+Open Facility Viewer
+Uncertainty quantification of measured quantities for a HCCI engine: composition or temperatures
+A streamlined build system foundation for developing HPC software
+IBCheck v0.1
+Merced
+Tempus v. 1.0
+Massive Associative K-biclustering (MAK) v1.0
+Stack Trace Ahalysis Tool
+Archer
+integrated Earth System Model
+Compressed Continuous Computation v.  12/20/2016
+General Nonlinear Ferroelectric Model v. Beta
+DARMA v. Beta 0.5
+CMM Data Analysis Tool
+Implicit SPH v. 1.0
+KokkosKernels v. 0.9
+pyomocontrib_simplemodel v. 1.0
+Tensor Toolbox for MATLAB v. 3.0
+Screamer version 4.1
+Axial deformed solution of the Skyrme-Hartree-Fock-Bogolyubov equations using the transformed harmonic oscillator Basis
+SimEngine v. 1.0
+NIRP Core Software Suite v. 1.0
+Gila San Francisco Decision Support Tool - 2010
+Analysis-Software for Hyperspectral Algal Reflectance Probes v. 1.0
+RatCAP Time to Digital Converter and Signal Processing module (TSPM)
+Classifier-Guided Sampling Optimizer v. 1.0
+Tensor Basis Neural Network v. 1.0 (beta)
+"CIME, Common Infrastructure for Modeling the Earth v. 5.0"
+Superstrider simulator
+An Ephemeral Burst-Buffer File System for Scientific Applications
+Emu v. 2.7
+Mobility - Version 1.0
+Vision - Vision 1.0
+Telemetry Analysis and Visualization Suite v. 2.2.0
+Shadow Value Analysis Library
+Umbra (core)
+Enhanced Data Authentication System v. 2.0
+Dakota Graphical User Interface v. 6.6
+Omega_h v. 8.1.0
+GOTCHA
+Tarjetas v.1.2015.7.23
+Turbo FRMAC 2016 v. 7.3.0
+Turbo FRMAC 2016 v. 7.2.0
+Unattended Multiplicity Shift Register
+Windows Logging Service 3.5
+Electronic Derivative Classifier/Reviewing Official
+"Open Facility Viewer
+
+Version 1.6.3"
+General Mode Scanning Probe Microscopy
+basecRAWller
+Image Processing Occupancy Sensor
+HTTPS Web Servers
+Generate Optimized Genetic Rhythm for Enzyme Expression in Non-native systems
+Paperless Work Package Application
+Aspen Plus Model for In Situ and Ex Situ Upgrading of Fast Pyrolysis Vapors for the Conversion of Biomass to Hydrocarbon Fuels
+PQScal (Power Quality Score Calculation for Distribution Systems with DER Integration)
+MOFA Software for the COBRA Toolbox
+Turbo FRMAC 2011
+SIDSIM (Sub-Interval Distribution Simulation)
+Data Race Benchmark Collection
+Neurons to Algorithms v.1.0
+Pyomo v5.0
+Drekar v.2.0
+LinkShop v.1.0.0
+Stepwise v. 2.21
+Digital Image Correlation Engine v.2.0
+CJW_COMP_WIDGETS v.1.0
+LAMP2GO
+Secure Sensor Platform Software Utilities v.2.0
+Chain of Custody Item Monitor Message Viewer v.1.0 Beta
+BRNBOX v.1.0
+ARAM-W Automated Risk Assessment Methodology for Water and Wastewater
+"Solidify, An LLVM pass to compile LLVM IR into Solidity"
+EPOXY

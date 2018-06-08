@@ -1,0 +1,19 @@
+notes things done estsc
+
+physical verification
+extract software package number- not included in metadata
+FRACFLO; 000299D870000
+
+sed 's/^.*; //'
+
+to reduce to 000299D870000
+
+next reduce to left of Letter
+
+cut -c1-6 outfile.csv > newfile.csv
+
+
+sed -e 's/^.*; //g' reportnumber.csv > outfile.csv
+
+merge physical with metadata with join on column report/software package number
+
