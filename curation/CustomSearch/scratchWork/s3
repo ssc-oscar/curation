@@ -1,0 +1,34 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from googleapiclient.discovery import build
+
+def main():
+    service = build('customsearch', 'v1', developerKey="key")
+
+    file = open("./data.csv", "r")
+    keys = []
+
+    for key in file.readlines():
+        keys.append(key)
+    keys.sort()
+
+    for keyword in keys:
+        print(u"\nRESULTS SEARCH FOR: %s" % str(keyword))
+
+        res = service.cse().list(
+            q=keyword,
+            cx='cx',
+            num=5,
+            safe= 'off',
+        ).execute()
+
+        if not 'items' in res:
+            print (u"No result !!\nres is: %s" % str(res))
+        else:
+            with open("results_data.txt", "w") as f:
+                for item in res['items']:
+                    print('\n%s:\n\t%s' % (item['title'], item['link']))
+
+if __name__ == '__main__':
+    main()
